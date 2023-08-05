@@ -1,3 +1,21 @@
+/* */
+:root {
+    --primary: #fff;
+    --secondary: #aaa;
+    --cell-size: 50px;
+    font-family: Tahoma;
+}
+
+.m1 { color: greenyellow; }
+.m2 { color: lightblue; }
+.m3 { color: yellow; }
+.m4 { color: orange; }
+.m5 { color: red; }
+.m6 { color: red; }
+.m7 { color: red; }
+.m8 { color: purple; }
+.m9 { color: pink; }
+
 html {
     color: rgb(205, 9, 123);
     font-size: 30px;
